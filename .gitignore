@@ -1,0 +1,15 @@
+# .gitignore content (in autonomous-study-agent/)
+
+# Venv folder
+ai_env/ 
+
+# Python cache and temporary files
+__pycache__/
+*.pyc
+
+# Database and secrets
+*.sqlite
+*.db
+
+# If you have a config file with keys
+config.py
