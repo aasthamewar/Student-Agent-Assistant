@@ -1,4 +1,5 @@
-## 🚀 Overview
+## 🚀 Student-Agent-Assistant
+
 The Autonomous Study Agent is a powerful, AI-driven assistant designed to manage a student's academic workload. Utilizing the Google Gemini API with advanced **Function Calling** capabilities, the agent can analyze assignment files (PDFs, images), automatically extract key details (deadline, subject, priority), save tasks to a persistent SQLite database, and generate personalized study schedules.
 
 The agent operates via a central **Orchestrator** that intelligently sequences tool calls (like Extraction, Database Insertion, and Scheduling) to fulfill complex user requests in a single prompt.
