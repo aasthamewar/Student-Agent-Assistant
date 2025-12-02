@@ -1,4 +1,4 @@
-# 🧠 Autonomous Study Agent
+<img width="1015" height="553" alt="blueprint of Agent project (1)" src="https://github.com/user-attachments/assets/722f0286-18a3-45aa-876b-dbd1ed3cab0d" /># 🧠 Autonomous Study Agent
 
 ## 🚀 Overview
 The Autonomous Study Agent is a powerful, AI-driven assistant designed to manage a student's academic workload. Utilizing the Google Gemini API with advanced **Function Calling** capabilities, the agent can analyze assignment files (PDFs, images), automatically extract key details (deadline, subject, priority), save tasks to a persistent SQLite database, and generate personalized study schedules.
@@ -7,6 +7,8 @@ The agent operates via a central **Orchestrator** that intelligently sequences t
 
 ---
 ## Here is how thinks works
+
+<img width="1015" height="553" alt="blueprint of Agent project (1)" src="https://github.com/user-attachments/assets/be7e2022-dac9-4406-8176-0f8870340c8e" />
 
 
 ## ✨ Key Features
